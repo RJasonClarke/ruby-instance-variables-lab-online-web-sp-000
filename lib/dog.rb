@@ -1,5 +1,7 @@
 class Dog
   def this_dogs_name
-    lassie.name = 'Lassie'
+    lassie = Dog.new
   end
 end
+
+lassie.name
