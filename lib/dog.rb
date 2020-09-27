@@ -1,5 +1,6 @@
 class Dog
   def name=(Lassie)
+
 end
 
 def name
