@@ -1,3 +1,3 @@
 class Dog
-  lassie = Dog.new
+  def name = ("Lassie")
 end
