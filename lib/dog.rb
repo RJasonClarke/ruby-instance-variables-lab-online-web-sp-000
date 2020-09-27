@@ -3,5 +3,3 @@ class Dog
     lassie.name = "Lassie"
   end
 end
-
-"Lassie" = Dog.new
